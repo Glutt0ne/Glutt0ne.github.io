@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Nathen Young"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "A entry level NetAdmin wanting to pursue my goals in security."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
